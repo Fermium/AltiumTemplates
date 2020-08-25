@@ -48,7 +48,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType2=PCBDrawing
 OutputName2=DRAFTSMAN_A3_ASSEMBLY
 OutputCategory2=Documentation
-OutputDocumentPath2=A3 assembly.DwsDot
+OutputDocumentPath2=A3_assembly.DwsDot
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0

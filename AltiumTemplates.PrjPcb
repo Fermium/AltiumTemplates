@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=Draftsman\A3 assembly.DwsDot
+DocumentPath=Draftsman\A3_assembly.DwsDot
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
