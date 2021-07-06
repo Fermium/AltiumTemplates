@@ -1,0 +1,83 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=010_Purchase.OutJob
+Description=
+TargetOutputMedium=DEV COSTING
+VariantName=[No Variations]
+VariantScope=1
+CurrentConfigurationName=
+TargetPrinter=Samsung C1810 Series (192.168.33.120)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium1=Print Job
+OutputMedium1_Type=Printer
+OutputMedium1_Printer=
+OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium2=DEV COSTING
+OutputMedium2_Type=GeneratedFiles
+OutputType1=BOM_PartType
+OutputName1=COSTING
+OutputCategory1=Report
+OutputDocumentPath1=[ActiveBOM Document]
+OutputVariantName1=
+OutputEnabled1=1
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=1
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=General
+Configuration1_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=True|IncludeCloudData=True|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=T:\Elettronica\Librerie\Templates\BOM_PURCHASING_PRELIMINARY.xlsx|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1657|FormHeight=1005|SupplierProdQty=5000|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=5|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Name3=GroupOrder
+Configuration1_Item3=Part Number=True
+Configuration1_Name4=VisibleOrder
+Configuration1_Item4=Line #=100|Supplier Unit Price 2=100|Supplier Unit Price 3=100|Supplier Unit Price 4=100|Supplier Unit Price 5=100|Supplier Subtotal 5=100|Supplier Subtotal per Board 1=100|Supplier Stock 5=100|Supplier Stock 4=100|Supplier Stock 3=100|Supplier Stock 2=100|Supplier Stock 1=100|Supplier Part Number 5=100|Supplier Part Number 4=100|Supplier Part Number 3=100|Supplier Part Number 2=100|Supplier 5=100|Supplier 4=100|Supplier 3=100|Supplier 2=100|Manufacturer 1=100|Manufacturer 2=100|Manufacturer Part Number 4=100|Manufacturer Part Number 5=100|Manufacturer 3=100|Manufacturer 4=100|Manufacturer 5=100|Manufacturer Part Number 3=100|Manufacturer Part Number 2=100|Comment=100|Description=100|Designator=100|TargetPrice=100|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144
+Configuration1_Name5=VisibleOrder_Base
+Configuration1_Item5=Comment=100|Line #=71|MEXAL_ALT_SKU=100|MEXAL_LAST_EDIT=100|MEXAL_LAST_WAREHOUSE_LOAD=100|MEXAL_NOTES=100|Reel SKU=94|ComponentIdentificationStatus=381|Description=382|Manufacturer 1=133|Manufacturer Part Number 1=186|LibRef=72|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|ComponentLink1URL=148|ComponentLink2URL=148|ComponentLink3URL=148|ComponentLink4URL=100|ComponentLink5URL=100|Part Number=100|ComponentLink1Description=100|ComponentLink2Description=100|ComponentLink3Description=100|ComponentLink4Description=100|ComponentLink5Description=100
+Configuration1_Name6=VisibleOrder_Consolidated
+Configuration1_Item6=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|TargetPrice=100|Manufacturer 1=133|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=Line #=100|Supplier Unit Price 2=100|Supplier Unit Price 3=100|Supplier Unit Price 4=100|Supplier Unit Price 5=100|Supplier Subtotal 5=100|Supplier Subtotal per Board 1=100|Supplier Stock 5=100|Supplier Stock 4=100|Supplier Stock 3=100|Supplier Stock 2=100|Supplier Stock 1=100|Supplier Part Number 5=100|Supplier Part Number 4=100|Supplier Part Number 3=100|Supplier Part Number 2=100|Supplier 5=100|Supplier 4=100|Supplier 3=100|Supplier 2=100|Manufacturer 1=100|Manufacturer 2=100|Manufacturer Part Number 4=100|Manufacturer Part Number 5=100|Manufacturer 3=100|Manufacturer 4=100|Manufacturer 5=100|Manufacturer Part Number 3=100|Manufacturer Part Number 2=100|Comment=100|Description=100|Designator=100|TargetPrice=100|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144
+
+[PublishSettings]
+OutputFilePath2=T:\Elettronica\Archivio Schede\58920\PRJ\Project Outputs for 58920\
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for Free Documents
+OutputPathMedia2=
+OutputPathMediaValue2=
+OutputPathOutputer2=
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=
+OutputFileName2=
+OutputFileNameMulti2=
+UseOutputNameForMulti2=1
+OutputFileNameSpecial2=
+OpenOutput2=0
+
+[GeneratedFilesSettings]
+RelativeOutputPath2=T:\Elettronica\Archivio Schede\58920\PRJ\Project Outputs for 58920\
+OpenOutputs2=0
+AddToProject2=0
+TimestampFolder2=0
+UseOutputName2=0
+OpenODBOutput2=0
+OpenGerberOutput2=0
+OpenNCDrillOutput2=0
+OpenIPCOutput2=0
+EnableReload2=0
+

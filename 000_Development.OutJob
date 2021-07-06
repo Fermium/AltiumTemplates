@@ -1,0 +1,188 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=
+Description=
+TargetOutputMedium=DEV CAM
+VariantName=[No Variations]
+VariantScope=1
+CurrentConfigurationName=
+TargetPrinter=Samsung C1810 Series (192.168.33.120)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium1=DEV REPORTS
+OutputMedium1_Type=GeneratedFiles
+OutputMedium2=DEV CAM
+OutputMedium2_Type=GeneratedFiles
+OutputType1=Electrical Rules Check
+OutputName1=Electrical Rules Check
+OutputCategory1=Validation
+OutputDocumentPath1=
+OutputVariantName1=
+OutputEnabled1=0
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=0
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=ERCClassColumnOrder=0|ERCClassColumnSort=0|ERCClassColumnVisibility=True|ERCConnectionMatrixL1=NNNNNNNNNNNWNNNWW|ERCConnectionMatrixL10=NWNNNNNENNEWNNEWN|ERCConnectionMatrixL11=NNENNNNEEENWNENWN|ERCConnectionMatrixL12=WWWWNWWNWWWNWWWNN|ERCConnectionMatrixL13=NNNNNNNNNNNWNNNWW|ERCConnectionMatrixL14=NWEENEEEENEWNEEWW|ERCConnectionMatrixL15=NNENNNNEEENWNENWW|ERCConnectionMatrixL16=WWWWNWWNWWWNWWWNW|ERCConnectionMatrixL17=WNNNNNNNWNNNWWWWN|ERCConnectionMatrixL2=NNWNNNNWWWNWNWNWN|ERCConnectionMatrixL3=NWEENEEEENEWNEEWN|ERCConnectionMatrixL4=NNENNNWEENNWNENWN|ERCConnectionMatrixL5=NNNNNNNNNNNNNNNNN|ERCConnectionMatrixL6=NNENNNNEENNWNENWN|ERCConnectionMatrixL7=NNEWNNWEENNWNENWN|ERCConnectionMatrixL8=NWEENEENEEENNEENN|ERCConnectionMatrixL9=NWEENEEEENEWNEEWW|ERCDocumentColumnOrder=1|ERCDocumentColumnSort=0|ERCDocumentColumnVisibility=True|ERCMessageColumnOrder=2|ERCMessageColumnSort=0|ERCMessageColumnVisibility=True|ERCReportGrouping=2|ERCReportMode=0|ERCReportSuppressedErrors=False|ERCType1=1|ERCType10=1|ERCType100=2|ERCType101=1|ERCType102=2|ERCType103=2|ERCType104=1|ERCType105=2|ERCType106=2|ERCType107=2|ERCType108=2|ERCType109=1|ERCType11=2|ERCType110=1|ERCType111=1|ERCType112=1|ERCType113=1|ERCType114=2|ERCType115=2|ERCType116=2|ERCType117=3|ERCType118=3|ERCType119=3|ERCType12=2|ERCType120=2|ERCType121=3|ERCType122=2|ERCType13=2|ERCType14=1|ERCType15=1|ERCType16=1|ERCType17=1|ERCType18=1|ERCType19=1|ERCType2=1|ERCType20=1|ERCType21=1|ERCType22=1|ERCType23=1|ERCType24=1|ERCType25=2|ERCType26=2|ERCType27=2|ERCType28=1|ERCType29=1|ERCType3=2|ERCType30=1|ERCType31=1|ERCType32=2|ERCType33=2|ERCType34=2|ERCType35=1|ERCType36=2|ERCType37=1|ERCType38=2|ERCType39=2|ERCType4=1|ERCType40=2|ERCType41=0|ERCType42=2|ERCType43=1|ERCType44=1|ERCType45=2|ERCType46=1|ERCType47=2|ERCType48=2|ERCType49=1|ERCType5=2|ERCType50=2|ERCType51=1|ERCType52=1|ERCType53=1|ERCType54=1|ERCType55=1|ERCType56=2|ERCType57=1|ERCType58=1|ERCType59=0|ERCType6=2|ERCType60=1|ERCType61=2|ERCType62=2|ERCType63=1|ERCType64=0|ERCType65=2|ERCType66=3|ERCType67=2|ERCType68=2|ERCType69=1|ERCType7=1|ERCType70=2|ERCType71=2|ERCType72=2|ERCType73=2|ERCType74=1|ERCType75=2|ERCType76=1|ERCType77=1|ERCType78=1|ERCType79=1|ERCType8=1|ERCType80=2|ERCType81=3|ERCType82=3|ERCType83=3|ERCType84=3|ERCType85=3|ERCType86=2|ERCType87=2|ERCType88=2|ERCType89=1|ERCType9=1|ERCType90=1|ERCType91=3|ERCType92=3|ERCType93=2|ERCType94=2|ERCType95=2|ERCType96=2|ERCType97=2|ERCType98=0|ERCType99=1|ERCValidationErrorLevel=1|Record=ERCReportView
+OutputType2=ReportHierarchy
+OutputName2=Report Project Hierarchy
+OutputCategory2=Report
+OutputDocumentPath2=
+OutputVariantName2=
+OutputEnabled2=0
+OutputEnabled2_OutputMedium1=1
+OutputEnabled2_OutputMedium2=0
+OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=ReportHierarchyView|ReportHierarchyMode=0|DocumentPath=[Project]
+OutputType3=ComponentCrossReference
+OutputName3=Component Cross Reference Report
+OutputCategory3=Report
+OutputDocumentPath3=
+OutputVariantName3=
+OutputEnabled3=0
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputDefault3=0
+Configuration3_Name1=ColumnNameFormat
+Configuration3_Item1=CaptionAsName
+OutputType4=SinglePinNetReporter
+OutputName4=Report Single Pin Nets
+OutputCategory4=Report
+OutputDocumentPath4=
+OutputVariantName4=
+OutputEnabled4=0
+OutputEnabled4_OutputMedium1=2
+OutputEnabled4_OutputMedium2=0
+OutputDefault4=0
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=NetlistVersion=0|Record=SinglePinNetsView|DocumentPath=[Project]
+OutputType5=Copy Files
+OutputName5=Copy Files
+OutputCategory5=PostProcess
+OutputDocumentPath5=
+OutputVariantName5=
+OutputEnabled5=0
+OutputEnabled5_OutputMedium1=0
+OutputEnabled5_OutputMedium2=0
+OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Count=1|File0=[Project Dir]\Docs\*|KeepStructure0=True|Record=NonNativeFiles
+OutputType6=ODB
+OutputName6=ODB++ Files
+OutputCategory6=Fabrication
+OutputDocumentPath6=
+OutputVariantName6=
+OutputEnabled6=1
+OutputEnabled6_OutputMedium1=0
+OutputEnabled6_OutputMedium2=1
+OutputDefault6=0
+Configuration6_Name1=OutputConfigurationParameter1
+Configuration6_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Board outline=False|AddToAllPlots_Bottom 3D Body=False|AddToAllPlots_Bottom Assembly=False|AddToAllPlots_Bottom Courtyard=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_PCBD Notes=False|AddToAllPlots_PCBM Notes=False|AddToAllPlots_Top 3D Body=False|AddToAllPlots_Top Assembly=False|AddToAllPlots_Top Courtyard=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=True|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set="Component Layers"|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
+OutputType7=Save As/Export PCB
+OutputName7=ASCII
+OutputCategory7=Export
+OutputDocumentPath7=
+OutputVariantName7=
+OutputEnabled7=0
+OutputEnabled7_OutputMedium1=0
+OutputEnabled7_OutputMedium2=0
+OutputDefault7=0
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=Format=PCB ASCII File (*.PcbDoc)|Record=UniExporterView
+OutputType8=BOM_PartType
+OutputName8=DevelopmentFootprints
+OutputCategory8=Report
+OutputDocumentPath8=[ActiveBOM Document]
+OutputVariantName8=
+OutputEnabled8=0
+OutputEnabled8_OutputMedium1=0
+OutputEnabled8_OutputMedium2=0
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration8_Name1=ColumnNameFormat
+Configuration8_Item1=CaptionAsName
+Configuration8_Name2=FilterString
+Configuration8_Item2=IsNullOrEmpty([Footprint])
+Configuration8_Name3=FilterString_Base
+Configuration8_Item3=[Footprint] = ''
+Configuration8_Name4=FilterString_Flat
+Configuration8_Item4=IsNullOrEmpty([Footprint])
+Configuration8_Name5=General
+Configuration8_Item5=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=T:\Elettronica\Librerie\Templates\BOM_DEVELOPMENT_FOOTPRINTS.xlsx|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1408|FormHeight=1005|SupplierProdQty=5000|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration8_Name6=GroupOrder
+Configuration8_Item6=Part Number=True
+Configuration8_Name7=VisibleOrder
+Configuration8_Item7=BOM Notes=100|ComponentLink9URL=100|ComponentLink9Description=100|ComponentLink8URL=100|ComponentLink8Description=100|ComponentLink7URL=100|ComponentLink7Description=100|ComponentLink6URL=100|ComponentLink6Description=100|ComponentLink5URL=100|ComponentLink5Description=100|ComponentLink4URL=100|ComponentLink4Description=100|ComponentLink3URL=100|ComponentLink3Description=100|ComponentLink2URL=100|ComponentLink2Description=100|ComponentLink20URL=100|ComponentLink20Description=100|ComponentLink1URL=100|ComponentLink1Description=100|ComponentLink19URL=100|ComponentLink19Description=100|ComponentLink18URL=100|ComponentLink18Description=100|ComponentLink17URL=100|ComponentLink17Description=100|ComponentLink16URL=100|ComponentLink16Description=100|ComponentLink15URL=100|ComponentLink15Description=100|ComponentLink14URL=100|ComponentLink14Description=100|ComponentLink13URL=100|ComponentLink13Description=100|ComponentLink12URL=100|ComponentLink12Description=100|ComponentLink11URL=100|ComponentLink11Description=100|ComponentLink10URL=100|ComponentLink10Description=100|Variant=100|SheetTotal=100|SheetNumber=100|Rule=100|MEXAL_NOTES=100|MEXAL_LAST_WAREHOUSE_LOAD=100|MEXAL_LAST_EDIT=100|MEXAL_ALT_SKU=100|MEXAL Note 1=100|LibRef=100|Library Reference=100|Library Name=100|HelpURL=100|Footprint=100|Document=100|Line #=100|Part Number=100|Comment=100|Description=100|Designator=100|TargetPrice=100|Manufacturer 1=133|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139
+Configuration8_Name8=VisibleOrder_Base
+Configuration8_Item8=Line #=71|Reel SKU=94|Part Number=146|Comment=278|Description=382|MEXAL_NOTES=466|Manufacturer 1=133|Manufacturer Part Number 1=186|Footprint=346|ComponentLink1URL=148|ComponentLink2URL=148|ComponentLink3URL=148|ItemType=100
+Configuration8_Name9=VisibleOrder_Consolidated
+Configuration8_Item9=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|TargetPrice=100|Manufacturer 1=133|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139
+Configuration8_Name10=VisibleOrder_Flat
+Configuration8_Item10=BOM Notes=100|ComponentLink9URL=100|ComponentLink9Description=100|ComponentLink8URL=100|ComponentLink8Description=100|ComponentLink7URL=100|ComponentLink7Description=100|ComponentLink6URL=100|ComponentLink6Description=100|ComponentLink5URL=100|ComponentLink5Description=100|ComponentLink4URL=100|ComponentLink4Description=100|ComponentLink3URL=100|ComponentLink3Description=100|ComponentLink2URL=100|ComponentLink2Description=100|ComponentLink20URL=100|ComponentLink20Description=100|ComponentLink1URL=100|ComponentLink1Description=100|ComponentLink19URL=100|ComponentLink19Description=100|ComponentLink18URL=100|ComponentLink18Description=100|ComponentLink17URL=100|ComponentLink17Description=100|ComponentLink16URL=100|ComponentLink16Description=100|ComponentLink15URL=100|ComponentLink15Description=100|ComponentLink14URL=100|ComponentLink14Description=100|ComponentLink13URL=100|ComponentLink13Description=100|ComponentLink12URL=100|ComponentLink12Description=100|ComponentLink11URL=100|ComponentLink11Description=100|ComponentLink10URL=100|ComponentLink10Description=100|Variant=100|SheetTotal=100|SheetNumber=100|Rule=100|MEXAL_NOTES=100|MEXAL_LAST_WAREHOUSE_LOAD=100|MEXAL_LAST_EDIT=100|MEXAL_ALT_SKU=100|MEXAL Note 1=100|LibRef=100|Library Reference=100|Library Name=100|HelpURL=100|Footprint=100|Document=100|Line #=100|Part Number=100|Comment=100|Description=100|Designator=100|TargetPrice=100|Manufacturer 1=133|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139
+
+[PublishSettings]
+OutputFilePath1=Project Outputs for Free Documents\DevelopmentReports\
+ReleaseManaged1=1
+OutputBasePath1=Project Outputs for Free Documents
+OutputPathMedia1=[Media Name]
+OutputPathMediaValue1=
+OutputPathOutputer1=
+OutputPathOutputerPrefix1=
+OutputPathOutputerValue1=
+OutputFileName1=
+OutputFileNameMulti1=
+UseOutputNameForMulti1=1
+OutputFileNameSpecial1=
+OpenOutput1=0
+OutputFilePath2=C:\altium-projects\ltk-mw-electronic\Project Outputs for Combined\DevelopmentCAM\
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for Free Documents
+OutputPathMedia2=[Media Name]
+OutputPathMediaValue2=
+OutputPathOutputer2=
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=
+OutputFileName2=
+OutputFileNameMulti2=
+UseOutputNameForMulti2=1
+OutputFileNameSpecial2=
+OpenOutput2=0
+
+[GeneratedFilesSettings]
+RelativeOutputPath1=Project Outputs for Free Documents\DevelopmentReports\
+OpenOutputs1=0
+AddToProject1=0
+TimestampFolder1=0
+UseOutputName1=1
+OpenODBOutput1=0
+OpenGerberOutput1=0
+OpenNCDrillOutput1=0
+OpenIPCOutput1=0
+EnableReload1=0
+RelativeOutputPath2=C:\altium-projects\ltk-mw-electronic\Project Outputs for Combined\DevelopmentCAM\
+OpenOutputs2=0
+AddToProject2=0
+TimestampFolder2=1
+UseOutputName2=0
+OpenODBOutput2=0
+OpenGerberOutput2=0
+OpenNCDrillOutput2=0
+OpenIPCOutput2=0
+EnableReload2=0
+

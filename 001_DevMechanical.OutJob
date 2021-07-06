@@ -1,0 +1,140 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=001_DevMechanical.OutJob
+Description=
+TargetOutputMedium=DEV MECH DATA
+VariantName=[No Variations]
+VariantScope=1
+CurrentConfigurationName=
+TargetPrinter=Samsung C1810 Series (192.168.33.120)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium1=DEV MECH SPECIFICATIONS
+OutputMedium1_Type=Publish
+OutputMedium2=DEV MECH DATA
+OutputMedium2_Type=GeneratedFiles
+OutputType1=PCBDrawing
+OutputName1=SPECIFICATIONS_MECHANICAL
+OutputCategory1=Documentation
+OutputDocumentPath1=MECHANICAL.PCBDwf
+OutputVariantName1=
+OutputEnabled1=0
+OutputEnabled1_OutputMedium1=1
+OutputEnabled1_OutputMedium2=0
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=ExportIDF
+OutputName2=Export IDF
+OutputCategory2=Export
+OutputDocumentPath2=
+OutputVariantName2=
+OutputEnabled2=0
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=0
+OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=ExportIDF|VersionNumber=1|DisplayUnits=0|DrilledHolesKind=0|DrilledHolesLargerThanSize=100,0|BlankComponentString= |UseSafeComponentNames=True|UseUnicode=False|MultipleComponentBodyMode=0|FileExtensionType=0|OverrideComponentNameWithParameter= |eoBoardOutline=0|eoDrilledHoles=1|eoPlacement=2
+OutputType3=ExportPARASOLID
+OutputName3=Export PARASOLID
+OutputCategory3=Export
+OutputDocumentPath3=
+OutputVariantName3=
+OutputEnabled3=0
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputDefault3=0
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=0|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False
+OutputType4=ExportSTEP
+OutputName4=Export STEP
+OutputCategory4=Export
+OutputDocumentPath4=
+OutputVariantName4=
+OutputEnabled4=1
+OutputEnabled4_OutputMedium1=0
+OutputEnabled4_OutputMedium2=1
+OutputDefault4=0
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=0|ComponentSuffixType=1|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False
+OutputType5=AutoCAD dwg/dxf PCB
+OutputName5=AutoCAD dwg/dxf File PCB
+OutputCategory5=Export
+OutputDocumentPath5=
+OutputVariantName5=
+OutputEnabled5=1
+OutputEnabled5_OutputMedium1=0
+OutputEnabled5_OutputMedium2=2
+OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=ExportDXFView|ACadVersion=60|UseRoundedTracks=True|Components=0|HoleMode=1|Units=1|OutputFormat=0|OnlyVisibleLayers=False|ZeroWidthLines=0
+
+[PublishSettings]
+OutputFilePath1=C:\altium-projects\ltk-mw-electronic\Project Outputs for Combined\
+ReleaseManaged1=1
+OutputBasePath1=Project Outputs for Free Documents
+OutputPathMedia1=
+OutputPathMediaValue1=
+OutputPathOutputer1=
+OutputPathOutputerPrefix1=
+OutputPathOutputerValue1=
+OutputFileName1=Job1.PDF
+OutputFileNameMulti1=
+UseOutputNameForMulti1=1
+OutputFileNameSpecial1=
+OpenOutput1=0
+PromptOverwrite1=0
+PublishMethod1=1
+ZoomLevel1=50
+FitSCHPrintSizeToDoc1=1
+FitPCBPrintSizeToDoc1=1
+GenerateNetsInfo1=1
+MarkPins1=1
+MarkNetLabels1=1
+MarkPortsId1=1
+GenerateTOC1=1
+ShowComponentParameters1=1
+GlobalBookmarks1=1
+PDFACompliance1=Disabled
+PDFVersion1=Default
+OutputFilePath2=C:\altium-projects\ltk-mw-electronic\Project Outputs for Combined\DevMechanicalData\
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for Free Documents
+OutputPathMedia2=[Media Name]
+OutputPathMediaValue2=
+OutputPathOutputer2=
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=
+OutputFileName2=
+OutputFileNameMulti2=
+UseOutputNameForMulti2=1
+OutputFileNameSpecial2=
+OpenOutput2=0
+
+[GeneratedFilesSettings]
+RelativeOutputPath1=C:\altium-projects\ltk-mw-electronic\Project Outputs for Combined\
+OpenOutputs1=0
+RelativeOutputPath2=C:\altium-projects\ltk-mw-electronic\Project Outputs for Combined\DevMechanicalData\
+OpenOutputs2=0
+AddToProject2=0
+TimestampFolder2=1
+UseOutputName2=0
+OpenODBOutput2=0
+OpenGerberOutput2=0
+OpenNCDrillOutput2=0
+OpenIPCOutput2=0
+EnableReload2=0
+

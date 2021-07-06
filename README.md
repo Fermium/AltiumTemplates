@@ -1,6 +1,19 @@
 # AltiumTemplates
 
-Beautiful and useful Altium templates for your next project
+Beautiful and useful Altium templates and defaults for your next project.
+
+To use:
+
+- Fork this repo
+- Clone to disk in a stable path, such as C or your user folder
+- Edit the templates to your liking
+- Configure Altium like in the screenshots
+
+![](assets/templates.png)
+
+![](assets/defaults.png)
+
+
 
 ## Schematic template
 
