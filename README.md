@@ -2,6 +2,8 @@
 
 Beautiful and useful Altium templates and defaults for your next project.
 
+
+
 To use:
 
 - Fork this repo
@@ -26,3 +28,15 @@ Features:
 - Git MD5 Hash display
 - colourblind-friendly
 - Big enough to be readable when printed at 50% (such as A3 printed on an A4)
+
+## Draftsman template
+
+Features:
+- Empty A3 sheet template
+- PCB Manufacturing template
+- PCB Assembly template
+- PCB Mechanical development template
+
+## BomDoc
+
+##
